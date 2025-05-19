@@ -2,7 +2,7 @@
 
 ## Descripción general
 
-`databricks-pdf-ai-search` es una solución de ejemplo que muestra cómo procesar documentos PDF almacenados en un volumen de Databricks (DBFS/Volumes) y transformarlos en fragmentos JSON, para luego guardarlos nuevamente en un volumen.
+Este repositorio muestra una solución cómo procesar documentos PDF almacenados en un volumen de Databricks (DBFS/Volumes) y transformarlos en fragmentos JSON, para luego guardarlos nuevamente en un volumen.
 
 ## Arquitectura
 
