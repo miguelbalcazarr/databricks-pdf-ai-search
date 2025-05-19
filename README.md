@@ -1,5 +1,3 @@
-# databricks-pdf-ai-search
-
 ## Descripción general
 
 Este repositorio muestra una solución cómo procesar documentos PDF almacenados en un volumen de Databricks (DBFS/Volumes) y transformarlos en fragmentos JSON, para luego guardarlos nuevamente en un volumen.
@@ -26,7 +24,7 @@ Este repositorio muestra una solución cómo procesar documentos PDF almacenados
 
 * **Workspace de Azure Databricks** con permisos para ejecutar notebooks.
 * **Databricks Runtime 14.3 LTS** con Python 3.9.
-* **Librerías y versiones** (instaladas en los notebooks mediante `%pip install`):
+* **Librerías y versiones** (instaladas en los notebooks mediante `%pip install` o requirements.txt):
 
   * `numpy==1.24.3`
   * `spacy==3.5.0`
