@@ -34,15 +34,6 @@
   * `PyPDF2==3.0.1`
   * `langdetect==1.0.9`
 
-## Configuración
-
-Asegúrate de haber configurado en tu **Azure Databricks Workspace** el *Scope* `scope-mbc` y los secretos:
-
-* `secret-env-container`
-* `secret-env-storage-account`
-
-Estos valores se utilizarán para construir la ruta base (`path_base`) donde leerás tus PDFs y guardarás los JSON resultantes.
-
 ## Notebooks
 
 ### `utils.ipynb`
