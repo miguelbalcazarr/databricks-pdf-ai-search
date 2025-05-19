@@ -69,20 +69,7 @@ En el notebook `ntb_read_pdf_volumes.ipynb` encontrarás las siguientes celdas:
 
 5. **Validación rápida**: muestra un ejemplo de JSON resultante para verificar la estructura.
 
-## Contribuir
+## Autor
+Miguel Balcazar
 
-1. Haz fork del repositorio.
-2. Crea una rama de función (`git checkout -b feature/TuFuncion`).
-3. Realiza tus cambios (`git commit -am 'Agrega nueva funcionalidad'`).
-4. Sube la rama (`git push origin feature/TuFuncion`).
-5. Abre un Pull Request.
-
-Por favor:
-
-* Limpia las salidas de los notebooks antes de commitear.
-* Sigue las guías de estilo PEP8.
-* Actualiza este README con nuevas funcionalidades.
-
-## Licencia
-
-Este proyecto está licenciado bajo MIT License. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+LinkedIn: miguel-balcazar-carmelo
